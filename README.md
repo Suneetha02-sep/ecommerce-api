@@ -16,7 +16,7 @@ A simple RESTful API built using **Node.js** and **Express.js** that manages pro
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
@@ -81,7 +81,7 @@ http://localhost:4000
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### 1. Get All Products
 
